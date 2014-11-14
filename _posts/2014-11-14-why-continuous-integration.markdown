@@ -1,9 +1,10 @@
 ---
-published: false
+layout: post
+title:  "Why Continuous Integration?"
+date:   2014-11-14 11:46:23
+categories: continous-delivery
 ---
 
-
-#Why Continuous Integration?
 For those of us that have practiced _**Continuous Integration**_ since Kent Beck coined the term in the late '90s it has become a self evident practice that requires little or no explanation.
 
 However every process should be reivewed and questioned from time-to-time as to wether it is really providing the intended benefits or if there are opportunities for continous improvement.
