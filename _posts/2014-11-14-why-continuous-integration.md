@@ -1,7 +1,6 @@
 ---
-published: false
+published: true
 ---
-
 
 #Why Continuous Integration?
 For those of us that have practiced _**Continuous Integration**_ since Kent Beck coined the term in the late '90s it has become a self evident practice that requires little or no explanation.
