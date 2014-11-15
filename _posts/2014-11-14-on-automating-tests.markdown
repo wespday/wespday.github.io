@@ -14,6 +14,6 @@ The author then goes on to explain unit tests _**are**_ good for finding bugs wh
 
 Perhaps more valuable here is this chart:
 
-<img src="http://blog.stevensanderson.com/wp-content/uploads/2009/08/image.png">
+![](/images/httpblog.stevensanderson.comwp-contentuploads200908image.png)
 
 So basically try to create unit tests on lower level testable units and integration tests for higher level tests of the integrated system, and avoid creating hybrid tests in-beteween the two (even though it's not 100%, there is a spectrum).  When refactoring time comes you'll be in good shape.
