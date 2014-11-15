@@ -1,0 +1,16 @@
+---
+published: false
+---
+
+I recently came across a nice blog post on writing unit tests:
+
+[Writing Great Unit Tests: Best and Worst Practices]( "http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/")
+
+The challenging premise here is "Unit testing is not about finding bugs".
+The author then goes on to explain unit tests _**are**_ good for finding bugs when refactoring.  But when you are initiailly creating unit tests the focus is more on design (TDD).
+
+Perhaps more valuable here is this chart:
+
+<img src="http://blog.stevensanderson.com/wp-content/uploads/2009/08/image.png">
+
+So basically try to create unit tests on lower level testable units and integration tests for higher level tests of the integrated system, and avoid creating hybrid tests in-beteween the two (even though it's not 100%, there is a spectrum).  When refactoring time comes you'll be in good shape.
