@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Continuous Integration?"
-date:   2014-11-14 11:46:23
+date:   2014-11-14 15:00:00
 categories: continous-delivery
 ---
 

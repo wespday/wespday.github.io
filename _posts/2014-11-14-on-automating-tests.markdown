@@ -1,5 +1,8 @@
 ---
-published: true
+layout: post
+title:  "On Automating Tests"
+date:   2014-11-14 11:46:23
+categories: testing
 ---
 
 I recently came across a nice blog post on writing unit tests:
