@@ -16,7 +16,7 @@ object oriented programming (poly-what-ism?), and from relational to document da
 <img  src="/images/functional-spaghetti.png"  border="1" alt="Functional Spaghetti">
 
 
-In his post [*Less is more: language features*](http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/) Mark Seemann recently took aim at many sacred cows
+In his post [*Less is more: language features*](http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/) Mark Seemann adeplty took aim at many sacred cows
 from Numbers to Inheritance to NULLs to Exceptions and even Interfaces.
 
 But rather than advocating for any currently existing language Mark seems to be hinting that a better language might be possible
