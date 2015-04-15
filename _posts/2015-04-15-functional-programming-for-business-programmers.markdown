@@ -5,8 +5,8 @@ date:   2015-04-15 17:00:00
 categories: programming
 ---
 
-*Functional programming offers many benefits but many line-of-business application developers do not yet
-have the tools they need to take full advantage of this.* 
+*Line-of-business application developers do not yet have the tools they need to take full advantage of
+the benefits of functional programming.* 
 
 >Many languages have redundant features; progress in language design includes removing those features.<br>
 > *--Mark Seemann*
