@@ -38,7 +38,7 @@ roots a little too closely for your average business programmer.
 What's needed for business programmers is the modern **COBOL** or **Visual Basic** but which embodies the most critical
 aspects of functional programming in a form that **favors readability over terseness**.
 The popularity of those languages in their day should provide clues for those among us choosing programming languages
-for productive business applications development.
+for productive business application development.
 
 So does that mean in this business programming language operators will look more like this?
 
